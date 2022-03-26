@@ -12,7 +12,7 @@ SSH: `git@github.com:ecmagnuson/i3config.git`
 `chmod +x ./setup.sh`    
 `./setup.sh`    
 
-Upon installing i3 on your machine I would immediatley reccomend installing the package 'light' unless you want to become blind.
+Upon installing i3 on your machine I would immediatley reccomend installing the package `light` unless you want to become blind.
 
 `sudo apt install light`    
 `sudo dnf install light`    
