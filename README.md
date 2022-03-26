@@ -4,18 +4,18 @@ I have a really old laptop that I wanted to try i3wm on.
 
 The process to setup i3 to not look like crap took forever. It is not something I want to repeat, so this config file should be helpful for that.
 
-Running the `setup.sh` file with overwrite your ~.config/i3 and ~.config/i3status files, FYI
+Running the `setup.sh` file will overwrite your ~.config/i3 and ~.config/i3status files, FYI
 
-Steps:
+Steps:    
 HTTPS: `git clone https://github.com/ecmagnuson/i3config.git`    
-SSH: `git@github.com:ecmagnuson/i3config.git`
-`chmod +x ./setup.sh`
-`./setup.sh`
+SSH: `git@github.com:ecmagnuson/i3config.git`    
+`chmod +x ./setup.sh`    
+`./setup.sh`    
 
 Upon installing i3 on your machine I would immediatley reccomend installing the package 'light' unless you want to become blind.
 
-`sudo apt install light`
-`sudo dnf install light`
+`sudo apt install light`    
+`sudo dnf install light`    
 etc.
 
 then it can be used as such:
