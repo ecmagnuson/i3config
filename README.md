@@ -7,7 +7,7 @@ The process to setup i3 to not look like crap took forever. It is not something 
 Running the `setup.sh` file with overwrite your ~.config/i3 and ~.config/i3status files, FYI
 
 Steps:
-HTTPS: `git clone https://github.com/ecmagnuson/i3config.git`
+HTTPS: `git clone https://github.com/ecmagnuson/i3config.git`    
 SSH: `git@github.com:ecmagnuson/i3config.git`
 `chmod +x ./setup.sh`
 `./setup.sh`
