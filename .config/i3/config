@@ -10,8 +10,8 @@
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
 #brightness
-bindsym XF86MonBrightnessDown exec sudo light -U 10
-bindsym XF86MonBrightnessUp exec sudo light -A 10
+bindsym XF86MonBrightnessUp exec light -A 3 # increase screen brightness
+bindsym XF86MonBrightnessDown exec light -U 3 # decrease screen brightness
 
 #scratchpad
 # Make the currently focused window a scratchpad
