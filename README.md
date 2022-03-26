@@ -1,17 +1,10 @@
 # i3config
 
-The process to setup i3 took foreverrr.............
+I have a really old laptop that I wanted to try i3wm on.
+
+The process to setup i3 to not look like crap took forever. It is not something I want to repeat, so this config file should be helpful for that
 
 A lot of this is from 
 https://github.com/addy-dclxvi/i3-starterpack
 
-From a fresh install:
-
-1. Install pacakges:
-  light, git, java11, highlight, zsh
-
-got to .gitconfig and remove the line 2 or error for curtis dot files
-
-Curtis' dotfiles for zsh
-https://github.com/ctrueden/dotfiles
-
+but I just took inspiration from the .config files so I didn't fork
