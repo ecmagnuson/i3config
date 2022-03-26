@@ -23,6 +23,8 @@ then it can be used as such:
 `light -S 30` so that you don't have to look into the sun anymore, because your default brightness key probably won't default work on i3 lol. But that's what this config file is for ;) 
 
 A lot of this is from 
-https://github.com/addy-dclxvi/i3-starterpack
+`https://github.com/addy-dclxvi/i3-starterpack`
+I didn't need a lot of that bling tho
+
 
 but I just took inspiration from the .config files so I didn't fork
