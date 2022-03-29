@@ -25,5 +25,3 @@ then it can be used as such:
 
 A lot of this is from [here](https://github.com/addy-dclxvi/i3-starterpack)    
 I didn't need a lot of that bling tho
-
-but I just took inspiration from the .config files so I didn't fork
