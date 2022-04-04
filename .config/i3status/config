@@ -97,7 +97,7 @@ memory {
 
 tztime local {
 		format = "<span background='#81a1c1'> %a %-d %b %I:%M %p </span>"
-		#format_time = "%a %-d %b %H:%M"
+		format_time = "%a %-d %b %H:%M"
 }
 
 volume master {
