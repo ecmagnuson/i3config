@@ -20,5 +20,7 @@ SSH: `git@github.com:ecmagnuson/i3config.git`
 `chmod +x ./setup.sh`    
 `./setup.sh`    
 
+Upon running `setup.sh` you can reload i3 via `mod + Shift + R` and then hopefully i3 will look a bit nicer :)
+
 A lot of this is from [here](https://github.com/addy-dclxvi/i3-starterpack)    
 I didn't need a lot of that bling tho
